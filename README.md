@@ -1,0 +1,1 @@
+a basic face detection app usinf opencv2
